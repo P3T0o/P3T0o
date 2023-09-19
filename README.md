@@ -18,6 +18,7 @@
 - Git
 - Postman
 - API
+- Swift
 
 ## Expérience
 
