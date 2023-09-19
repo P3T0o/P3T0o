@@ -39,7 +39,7 @@
 
 ## Badges
 
-[![Badge de compétence Laravel](https://img.shields.io/badge/Laravel-Expert-blue)](https://www.Laravel.net/)
+[![Badge de compétence Laravel](https://img.shields.io/badge/Laravel-Intermediate-yellow)](https://www.Laravel.net/)
 [![Badge de compétence JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Badge de profil LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/quentin-le-noir/)
 
