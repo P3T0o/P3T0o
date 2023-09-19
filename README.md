@@ -1,4 +1,4 @@
-# Quentin Le Noir
+# Quentin L
 
 Étudiant en MSC Pro à Epitech, passionné par l'informatique et les jeux vidéo, je suis un développeur web avec une appétence pour l'IA.
 
