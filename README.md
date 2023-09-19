@@ -21,13 +21,13 @@
 
 ## Expérience
 
-- **Alternance chez CapGemini** : [Période de l'alternance] - Développement web et collaboration sur des projets d'envergure.
+- **Alternance chez CapGemini** : Janvier 2023 à Maintenant - Développement Logiciel et collaboration sur des projets d'envergure.
 - **Projets à Epitech** : Plusieurs projets académiques liés au développement web et à l'informatique.
-- **Titre de Développeur WEB et Web Mobile à Callac Soft College** : [Année de l'obtention du titre] - Formation en développement web.
+- **Titre de Développeur WEB et Web Mobile à Callac Soft College** : 2022 - Formation en développement web.
 
 ## Projets Personnels
 
-- **Réseau Social pour Gamer** : [Lien vers le dépôt GitHub de votre projet] - Une plateforme pour les amateurs de jeux vidéo pour se connecter, partager et discuter.
+- **Réseau Social pour Gamer** :  Une plateforme pour les amateurs de jeux vidéo pour se connecter, partager et discuter.
 
 ## Réseaux Sociaux
 
@@ -39,8 +39,10 @@
 
 ## Badges
 
-[Inclure ici des badges pertinents, tels que des badges de compétences ou de certifications, le cas échéant.]
+[![Badge de compétence PHP](https://img.shields.io/badge/PHP-Expert-blue)](https://www.php.net/)
+[![Badge de compétence JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Badge de profil LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/quentin-le-noir/)
 
 ## Statistiques GitHub
 
-[Inclure ici des statistiques GitHub telles que le nombre de dépôts, de contributeurs, de stars, etc., en utilisant des badges ou des widgets.]
+[![Badge de statistiques GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
